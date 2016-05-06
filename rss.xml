@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[capturetales]]></title>
+        <description><![CDATA[capturetales]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 20:45:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Have I been pwned? Check if your email has been compromised in a data breach]]></title>
+            <description><![CDATA[<article><h1>Have I been pwned? Check if your email has been compromised in a data breach</h1><p>Have I been pwned? allows you to search across multiple data breaches to see if your email addresses has been compromised.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f146749cffad3828853067077cd5e901fc361ae.png"></article>]]></description>
+            <link>https://haveibeenpwned.com/</link>
+            <guid isPermaLink="false">9c41422f-e749-4b6f-963e-b4d073aa7033</guid>
+            <pubDate>Fri, 06 May 2016 20:45:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
