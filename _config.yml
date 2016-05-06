@@ -29,9 +29,9 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.9723404
-  lightness: 0.1620546285994351
-  saturation: 0.7639882562216371
-  rhythmicContrast: 0.5508083763998002
+  lightness: 0.7595745
+  saturation: 0.9085106
+  rhythmicContrast: 0.7446808
   brandColors:
     - '#00000C'
     - '#D8D6AF'
