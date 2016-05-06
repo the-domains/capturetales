@@ -1,29 +1,41 @@
-name: capturetales
-favicon: null
-layout_spectrum: 0.8105823330115527
-typography_spectrum: 0.9697263315320015
 title: capturetales
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.9744681
+favicon: null
+name: capturetales
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.1178069042507559
+  saturation: 0.7639882562216371
   brandColors:
     - '#A690A4'
     - '#B68F9D'
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.1178069042507559
   lightness: 0.1620546285994351
-  saturation: 0.7639882562216371
   rhythmicContrast: 0.5508083763998002
-purpose: []
+typography_spectrum: 0.5297872
