@@ -28,14 +28,14 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  brandStrength: 0.1178069042507559
-  saturation: 0.7639882562216371
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+  brandStrength: 0.9723404
   lightness: 0.1620546285994351
+  saturation: 0.7639882562216371
   rhythmicContrast: 0.5508083763998002
+  brandColors:
+    - '#00000C'
+    - '#D8D6AF'
+    - '#65598B'
+    - '#9F9AA1'
+    - '#461725'
 typography_spectrum: 0.5297872
