@@ -1,16 +1,16 @@
 title: capturetales
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
 layout_spectrum: 1
 favicon: null
 name: capturetales
 purpose: []
 analytics:
-  facebook: null
-  google: null
   twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,13 +29,13 @@ collections:
       path: '/:title/'
 color:
   brandStrength: 0.4659574
-  lightness: 0.8042553
   saturation: 0.2893617
-  rhythmicContrast: 1
   brandColors:
     - '#010101'
     - '#B8B8B8'
     - '#565656'
     - '#979797'
     - '#FFFFFF'
-typography_spectrum: 0.08085106
+  lightness: 0.8042553
+  rhythmicContrast: 1
+typography_spectrum: 0.9872341
